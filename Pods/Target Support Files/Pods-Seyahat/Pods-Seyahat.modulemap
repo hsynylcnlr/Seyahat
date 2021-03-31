@@ -1,0 +1,6 @@
+framework module Pods_Seyahat {
+  umbrella header "Pods-Seyahat-umbrella.h"
+
+  export *
+  module * { export * }
+}
